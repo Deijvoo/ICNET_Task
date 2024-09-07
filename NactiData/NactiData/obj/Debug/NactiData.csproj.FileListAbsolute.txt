@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\bin\Debug\NactiData.exe.config
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\bin\Debug\NactiData.exe
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\bin\Debug\NactiData.pdb
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\obj\Debug\NactiData.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\obj\Debug\NactiData.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\obj\Debug\NactiData.exe
+C:\Users\david\Desktop\Robota_Uloha\C# part\NactiData\NactiData\obj\Debug\NactiData.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Desktop\\Robota_Uloha\\C_part\\NactiData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9824CDDB-8162-488C-8B77-E8556BFF2E7B}|NactiData\\NactiData.csproj|c:\\users\\david\\desktop\\robota_uloha\\c_part\\nactidata\\nactidata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9824CDDB-8162-488C-8B77-E8556BFF2E7B}|NactiData\\NactiData.csproj|solutionrelative:nactidata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C0AED1-F248-4438-BC66-D913BF097EB6}|NactiData.Tests\\NactiData.Tests.csproj|C:\\Users\\david\\Desktop\\Robota_Uloha\\C_part\\NactiData\\nactidata.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C0AED1-F248-4438-BC66-D913BF097EB6}|NactiData.Tests\\NactiData.Tests.csproj|solutionrelative:nactidata.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\Robota_Uloha\\C_part\\NactiData\\NactiData.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NactiData.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\Robota_Uloha\\C_part\\NactiData\\NactiData.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "NactiData.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:24:25.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\Robota_Uloha\\C_part\\NactiData\\NactiData\\Program.cs",
+              "RelativeDocumentMoniker": "NactiData\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\Robota_Uloha\\C_part\\NactiData\\NactiData\\Program.cs",
+              "RelativeToolTip": "NactiData\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:41:43.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
